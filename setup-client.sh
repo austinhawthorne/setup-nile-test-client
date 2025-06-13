@@ -17,10 +17,10 @@ echo "→ Updating apt package list…"
 sudo apt update
 
 echo "→ Installing APT packages…"
-sudo apt install -y python3-scapy python3-zeroconf python3-nmap python3-netifaces
+sudo apt install -y python3-scapy python3-zeroconf python3-nmap python3-netifaces frr freeradius dnsutils ntpdate curl netcat-openbsd openssl
 
 echo "→ Installing asciichartpy via pip…"
-sudo pip install asciichartpy --break-system-packages
+sudo pip install asciichartpy dhcppython --break-system-packages
 
 echo
 echo "→ Cloning GitHub repositories…"
