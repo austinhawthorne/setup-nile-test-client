@@ -1,4 +1,4 @@
-This shell script installs all the Nile demo and readiness scripts in this Git onto a Raspberry Pi.  To setup your Pi run:
+This shell script installs all the Nile demo and readiness scripts, and necessary dependenccies, in this Git onto a Raspberry Pi.  To setup your Pi run:
 
 ```
 git clone https://github.com/austinhawthorne/setup-nile-test-client.git 
