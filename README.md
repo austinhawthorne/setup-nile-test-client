@@ -11,6 +11,7 @@ This will install all the Gits in your user's home directory.
 
 Today this installs:
 
+```
   rogue-dhcp-test
   loop-detector
   dot1x-test
@@ -19,4 +20,4 @@ Today this installs:
   net-scan
   staticip-test
   nile-readiness-test
-
+```
