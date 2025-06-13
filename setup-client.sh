@@ -32,6 +32,7 @@ REPOS=(
   simple-airplay
   net-scan
   staticip-test
+  nile-readiness-test
 )
 
 for repo in "${REPOS[@]}"; do
