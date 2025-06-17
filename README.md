@@ -7,7 +7,7 @@ chmod +x setup-client.sh
 sudo ./setup-client.sh
 ```
 
-This will install all the Gits in your user's home directory.
+This will install all the Gits in your user's home directory as well as necessary dependencies..
 
 Today this installs:
 
